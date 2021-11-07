@@ -1,0 +1,25 @@
+.header{
+    height: 45px;
+}
+.header .header-left{
+    height: 45px;
+}
+.logo{
+    line-height: 45px;
+}
+.user-menu.nav>li>a{
+    height: 45px;
+    line-height: 45px;
+}
+.page-title-box {
+    height: 45px;
+    padding: 9px 14px;
+}
+a.mobile_btn{
+    height: 45px;
+    line-height: 45px;
+}
+.mobile-user-menu{
+    height: 45px;
+    line-height: 45px;
+}

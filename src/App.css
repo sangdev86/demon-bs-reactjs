@@ -1,0 +1,195 @@
+#root{
+    height: 100%;
+}
+.sidebar-overlay {
+    top: 45px;
+}
+.config__chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.donutchart-innertext-label{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.donutchart-innertext-value{
+    font-size: 20px;
+}
+.m-b-70 {
+    margin-bottom: 70px;
+}
+#add_new .modal-dialog-centered,
+#edit_new .modal-dialog-centered,
+#add-product .modal-dialog-centered,
+#edit-product .modal-dialog-centered
+{
+    align-items: unset;
+}
+.product-thumbnail{
+    max-width: max-content;
+}
+.select--fix {
+    cursor: pointer;
+    border-radius: unset !important;
+}
+.select__search{
+    height: 50px;
+    padding: 15px 10px 0 10px;
+}
+.avt h5 a,p{
+    color: #888;
+    font-size: inherit;
+}
+.avt h5 p{
+    font-size: unset !important;
+    font-weight: 400 !important;
+}
+.chat-window{
+    padding-bottom: 30px;
+}
+.font--size-23px{
+    font-size: 23px;
+}
+#chat_sidebar.chat-profile-view {
+    top: -15px !important;
+}
+#chat_sidebar .chat-window{
+    padding-bottom: 0;
+}
+table.dataTable thead .sorting.sorting_desc {
+    background-image: unset !important
+}
+table.dataTable thead .sorting.sorting_asc {
+    background-image: unset !important
+}
+table.dataTable thead .sorting{
+    background-image: unset !important
+}
+.react-datepicker-wrapper{
+    width: 100%;
+    z-index: 2;
+}
+.react-datepicker-popper{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.react-datepicker-popper[data-placement^="bottom"]{
+    inset: 0 !important;
+}
+.react-datepicker-popper[data-placement^="top"]{
+    inset: auto 0 0 0 !important;
+}
+.dataTables_wrapper .dataTables_length select{
+    background-color: #fff !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    background: #fff !important;
+    border: 1px solid #dee2e6 !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    border-right: 0 !important;
+    
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.previous{
+    border-radius: 3px 0 0 3px !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.next {
+    border-radius: 0 3px 3px 0 !important;
+    border-right: 1px solid #dee2e6 !important;
+}
+
+#DataTables_Table_1_paginate a {
+    color: #0056b3 !important;
+}
+#DataTables_Table_0_paginate a{
+    color: #0056b3 !important;
+}
+#DataTables_Table_1_paginate a.current {
+    color: #fff !important;
+}
+
+#DataTables_Table_0_paginate a.current {
+    color: #fff !important;
+}
+#DataTables_Table_1_paginate a.disabled {
+    color: #6c757d96 !important;
+}
+#DataTables_Table_0_paginate a.disabled{
+    color: #6c757d96 !important;
+}
+#DataTables_Table_1_paginate .dataTables_wrapper .dataTables_paginate .paginate_button.current,
+#DataTables_Table_1_paginate .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    background-color: #1d6ad2 !important;
+    border-color: #1d6ad2 !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    background-color: #1d6ad2 !important;
+    border-color: #1d6ad2 !important;
+    color: #fff !important;
+}
+.MuiToolbar-root{
+    border-radius: 5px 5px 0 0;
+}
+.dataTables_paginate a:hover {
+    background-color: #e9ecef !important;
+    border-color: #dee2e6 !important;
+}
+table.dataTable.no-footer{
+    border-bottom:unset !important
+}
+#DataTables_Table_0 tr th {
+    border-bottom: 3px solid rgb(227, 223, 223);
+}
+.fix-select-form .select2-container--default .select2-selection--single {
+    height: 38px !important;
+    border-radius: 0 !important;
+}
+.fix-select-form .select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height: 38px;
+}
+.fix-select-form .select2-container--default .select2-selection--single .select2-selection__arrow{
+    height: 38px;
+}
+.task-chat-view{
+    top: -15px !important;
+}
+#chat_sidebar{
+    padding-bottom: 30px;
+}
+.modal-body{
+    padding-bottom: 60px !important;
+}
+/* calendar */
+.MuiToolbar-regular{
+    background: #1976d2 !important;
+    min-height: 50px !important;
+}
+.rbc-calendar .MuiIconButton-root{
+    color: #fff !important;
+}
+/* lightgallery */
+#lightgallery .lg-react-element{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+#lg-backdrop-1 {
+    z-index: 9999;
+}
+#lg-outer-1{
+    z-index: 9999;
+}
+.price-sup{
+    color: unset;
+}
+.product-info .avt h5 a,
+p{
+    color: unset;
+}

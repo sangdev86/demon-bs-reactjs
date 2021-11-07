@@ -1,0 +1,9 @@
+.page-wrapper{
+    padding-top:45px;
+}
+.page-wrapper>.content{
+    padding-bottom: 60px;
+}
+.notification-box{
+    top: 45px;
+}

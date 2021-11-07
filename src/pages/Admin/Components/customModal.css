@@ -1,0 +1,8 @@
+.modal-open .modal.custom-modal{
+    top: 0 !important;
+}
+.close{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
