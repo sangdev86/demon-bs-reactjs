@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/demon-bs-reactjs/static/css/main.e896f231.chunk.css",
+    "main.js": "/demon-bs-reactjs/static/js/main.acd58375.chunk.js",
+    "main.js.map": "/demon-bs-reactjs/static/js/main.acd58375.chunk.js.map",
+    "runtime-main.js": "/demon-bs-reactjs/static/js/runtime-main.ced14a01.js",
+    "runtime-main.js.map": "/demon-bs-reactjs/static/js/runtime-main.ced14a01.js.map",
+    "static/css/2.1c919b62.chunk.css": "/demon-bs-reactjs/static/css/2.1c919b62.chunk.css",
+    "static/js/2.0bd9afb1.chunk.js": "/demon-bs-reactjs/static/js/2.0bd9afb1.chunk.js",
+    "static/js/2.0bd9afb1.chunk.js.map": "/demon-bs-reactjs/static/js/2.0bd9afb1.chunk.js.map",
+    "static/js/3.236088d6.chunk.js": "/demon-bs-reactjs/static/js/3.236088d6.chunk.js",
+    "static/js/3.236088d6.chunk.js.map": "/demon-bs-reactjs/static/js/3.236088d6.chunk.js.map",
+    "index.html": "/demon-bs-reactjs/index.html",
+    "static/css/2.1c919b62.chunk.css.map": "/demon-bs-reactjs/static/css/2.1c919b62.chunk.css.map",
+    "static/css/main.e896f231.chunk.css.map": "/demon-bs-reactjs/static/css/main.e896f231.chunk.css.map",
+    "static/js/2.0bd9afb1.chunk.js.LICENSE.txt": "/demon-bs-reactjs/static/js/2.0bd9afb1.chunk.js.LICENSE.txt",
+    "static/media/lightgallery.css": "/demon-bs-reactjs/static/media/lg.747d0385.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced14a01.js",
+    "static/css/2.1c919b62.chunk.css",
+    "static/js/2.0bd9afb1.chunk.js",
+    "static/css/main.e896f231.chunk.css",
+    "static/js/main.acd58375.chunk.js"
+  ]
+}

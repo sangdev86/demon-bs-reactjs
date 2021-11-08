@@ -1,0 +1,2 @@
+const HEIGHT_HEADER = 45;
+const HEIGHT_FOOTER = 30;
